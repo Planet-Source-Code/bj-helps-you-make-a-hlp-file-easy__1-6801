@@ -1,0 +1,38 @@
+:Base helpy.hlp>main
+:Title Xteq Helpy
+1 What is Xteq Helpy?=WhatsThis
+1 General Information about the use of Helpy=GeneralHelpInfo
+1 Functions
+2 Move between topics in your helpfile
+3 Insert Jump (AKA Hotspot)=IDH_InsertJump
+3 Insert Jump - Examples=InsertJump-Examples
+3 Insert Button=IDH_InsertButton
+3 Insert Button - Examples=InsertButtonExamples
+3 Creating a jump: Step by step Instructions=InsertHotspotStepbyStep
+2 Jump to an URL or creating E-Mails
+3 Insert Jump to URL=IDH_InsertJumpToURL
+3 Insert Jump to URL - Examples=InsertJumpToURLExample
+2 Using pictures in your helpfile
+3 Insert Picture=IDH_InsertPicture
+3 Insert Picture - Examples=InsertPictureExamples
+2 Topic Information (Topic-ID,-Title...)
+3 Topic Information=IDH_TopicInformation
+2 Moving to a specifed Topic
+3 Go to Topic=IDH_GoToTopic
+2 Other functions
+3 Insert Topic=IDH_InsertTopic
+3 Remove Jump=IDH_RemoveJump
+3 Show Help Workshop=ShowHelpWorkshop
+1 Menu
+2 Description of Helpy menu=MenuDescription
+1 Further Information
+1 Using existing RTF-Files with Helpy=ConnectRTFWithHelpy
+1 Known Bugs/Limitations=BugsLimitations
+2 About Xteq Helpy
+3 Contact Xteq=ContactKOS
+3 About Xteq Helpy=AboutHelpy
+2 Tips & Tricks
+3 Tips & Tricks=HintsAndTips
+2 Microsoft Help Workshop
+2 About Microsoft Help Workshop=MSHelpWorkshop
+2 Show Help Workshop=ShowHelpWorkshop
